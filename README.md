@@ -1,1 +1,2 @@
 # PyProject
+# Ai Academy
